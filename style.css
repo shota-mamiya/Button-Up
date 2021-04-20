@@ -1,0 +1,44 @@
+
+button{
+    font-weight: bold;
+    color:rgb(104, 187, 187);
+    border-color: rgb(104, 187, 187);
+    border-width: medium;
+    border-style: solid;
+    width: 200px;
+    height: 40px;
+    border-radius: 45px;
+    font-size: x-large;
+}
+   
+.addbutton{
+    color:rgb(255, 255, 255);
+    background-color: rgb(101, 214, 214);
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    font-size: xx-large;
+    margin-top: 20px;
+
+
+
+}
+
+.createaccount{
+    color:white;
+    background-color: rgb(87, 148, 240);
+    width: 250px;
+    height: 50px;
+    border-color: black;
+    font-size: x-large;
+    font-weight: normal;
+    border-radius: 0px;
+    box-shadow: 5px 5px 2px black;
+    margin-top: 20px;
+    
+}
+
+#buttongroup{
+    margin: 100px
+}
